@@ -23,39 +23,16 @@ An intelligent learning platform focused on teaching, evaluation, progression, a
 
 ---
 
-<div align="center">
+# 📖 Project Overview
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Analytics-Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+The **Adaptive Learning Analytics Engine** is a personal learning platform focused on:
 
-<br/>
-<br/>
-
-<h3>
-An Adaptive Learning and Performance Analytics Platform
-</h3>
-
-<p>
-Designed to simulate a personalized AI-driven learning experience for data analyst preparation.
-</p>
-
-</div>
-
----
-
-# Project Overview
-
-The <b>Adaptive Learning Analytics Engine</b> is a personal learning platform focused on:
-
-* teaching concepts interactively
-* evaluating answers dynamically
-* tracking learning progression
-* identifying weak areas
-* generating personalized recommendations
-* visualizing performance analytics
+- teaching concepts interactively
+- evaluating answers dynamically
+- tracking learning progression
+- identifying weak areas
+- generating personalized recommendations
+- visualizing performance analytics
 
 This project combines:
 
@@ -67,7 +44,7 @@ into a single adaptive learning system.
 
 ---
 
-# Core Learning Flow
+# 🔥 Core Learning Flow
 
 ```text
 Teach
@@ -83,150 +60,125 @@ Improve
 
 The goal is to create a platform where a candidate can:
 
-✅ learn concepts interactively
-✅ solve adaptive questions
-✅ receive evaluation feedback
-✅ gain XP and progression rewards
-✅ track weak areas
-✅ improve continuously through analytics-driven recommendations
+✅ learn concepts interactively  
+✅ solve adaptive questions  
+✅ receive evaluation feedback  
+✅ gain XP and progression rewards  
+✅ track weak areas  
+✅ improve continuously through analytics-driven recommendations  
 
 ---
 
-# Features
+# ✨ Features
 
-## Adaptive Learning Engine
+## 🧠 Adaptive Learning Engine
 
-* Topic-based learning flow
-* Concept explanations
-* Interactive learning experience
-* Adaptive progression logic
-* Personalized learning path
-
----
-
-## Question & Answer System
-
-* Dynamic question fetching
-* Answer submission system
-* Topic-focused learning
-* Difficulty-based progression
-* Attempt tracking
+- Topic-based learning flow
+- Concept explanations
+- Interactive learning experience
+- Adaptive progression logic
+- Personalized learning path
 
 ---
 
-## Evaluation Engine
+## ❓ Question & Answer System
 
-* Correct/wrong answer validation
-* Performance scoring
-* Accuracy calculation
-* Attempt analytics
-* Progress evaluation
-
----
-
-## XP & Progression System
-
-* XP rewards
-* Candidate ranking
-* Progress tracking
-* Learning streaks
-* Skill progression system
+- Dynamic question fetching
+- Answer submission system
+- Topic-focused learning
+- Difficulty-based progression
+- Attempt tracking
 
 ---
 
-## Analytics Dashboard
+## 📊 Evaluation Engine
 
-* Subject-wise performance analysis
-* Weak area detection
-* Accuracy visualization
-* Learning insights
-* Progress analytics
-
----
-
-## Recommendation System
-
-* Weak-topic recommendations
-* Revision suggestions
-* Adaptive learning guidance
-* Personalized improvement flow
+- Correct/wrong answer validation
+- Performance scoring
+- Accuracy calculation
+- Attempt analytics
+- Progress evaluation
 
 ---
 
-# Tech Stack
+## ⚡ XP & Progression System
 
-<table>
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>React, Tailwind CSS, Recharts</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>FastAPI, PostgreSQL, SQLAlchemy</td>
-</tr>
-
-<tr>
-<td><b>Analytics</b></td>
-<td>Python, Pandas, SQL</td>
-</tr>
-
-<tr>
-<td><b>Authentication</b></td>
-<td>JWT Authentication</td>
-</tr>
-
-<tr>
-<td><b>Visualization</b></td>
-<td>Interactive Analytics Dashboard</td>
-</tr>
-
-</table>
+- XP rewards
+- Candidate ranking
+- Progress tracking
+- Learning streaks
+- Skill progression system
 
 ---
 
-# Current Development Status
+## 📈 Analytics Dashboard
 
-## Completed Foundations
-
-* Frontend dashboard architecture
-* Authentication flow
-* Backend API structure
-* Database models
-* Analytics UI components
-* Question engine foundation
-* XP tracking architecture
+- Subject-wise performance analysis
+- Weak area detection
+- Accuracy visualization
+- Learning insights
+- Progress analytics
 
 ---
 
-## Upcoming Focus Areas
+## 🎯 Recommendation System
 
-* Adaptive teaching engine
-* Intelligent evaluation flow
-* Personalized recommendation system
-* Advanced analytics engine
-* AI-guided learning flow
+- Weak-topic recommendations
+- Revision suggestions
+- Adaptive learning guidance
+- Personalized improvement flow
 
 ---
 
-# Project Vision
+# 🛠️ Tech Stack
 
-The long-term vision of this project is to create a:
+| Category | Technologies |
+|---|---|
+| **Frontend** | React, Tailwind CSS, Recharts |
+| **Backend** | FastAPI, PostgreSQL, SQLAlchemy |
+| **Analytics** | Python, Pandas, SQL |
+| **Authentication** | JWT Authentication |
+| **Visualization** | Interactive Analytics Dashboard |
+
+---
+
+# 🚧 Current Development Status
+
+## ✅ Completed Foundations
+
+- Frontend dashboard architecture
+- Authentication flow
+- Backend API structure
+- Database models
+- Analytics UI components
+- Question engine foundation
+- XP tracking architecture
+
+---
+
+## 🔥 Upcoming Focus Areas
+
+- Adaptive teaching engine
+- Intelligent evaluation flow
+- Personalized recommendation system
+- Advanced analytics engine
+- AI-guided learning flow
+
+---
+
+# 🌟 Project Vision
+
+The long-term vision of this project is to create an:
 
 # Intelligent Adaptive Learning System
 
 that combines:
 
-* teaching
-* evaluation
-* analytics
-* progression
-* recommendation
+- teaching
+- evaluation
+- analytics
+- progression
+- recommendation
 
 into a single personalized learning experience.
 
@@ -240,13 +192,13 @@ through adaptive analytics-driven learning.
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
 > Screenshots and dashboard previews will be added as development progresses.
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```text
 frontend/
@@ -262,7 +214,7 @@ backend/
 
 ---
 
-# Author
+# 👨‍💻 Author
 
 ## Shivam Mahawar
 
@@ -272,8 +224,6 @@ Adaptive Learning Analytics Engine Project
 
 <div align="center">
 
-<h3>
-Built for Learning, Analytics, and Continuous Improvement 🚀
-</h3>
+### 🚀 Built for Learning, Analytics, and Continuous Improvement
 
 </div>
