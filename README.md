@@ -2,11 +2,9 @@
 
 # 🚀 Adaptive Learning Analytics Engine
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Adaptive%20Learning%20Analytics%20Engine&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-2563EB?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Status-Active%20Development-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -15,9 +13,7 @@
 <br/>
 <br/>
 
-<h3>
-🧠 Personalized Adaptive Learning System for Data Analyst Preparation
-</h3>
+### 🧠 Personalized Adaptive Learning System for Data Analyst Preparation
 
 <p>
 An intelligent learning platform focused on teaching, evaluation, progression, analytics, and personalized improvement.
